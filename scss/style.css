@@ -1,0 +1,23 @@
+.background-hero {
+  background: #7550fe;
+}
+
+.background-secondary {
+  background: #ffeeda;
+}
+
+.color-btn1 {
+  background: rgb(78, 224, 78);
+}
+
+.color-btn2 {
+  background: white;
+}
+
+.text-color {
+  color: white;
+}
+
+.text-color-op {
+  color: rgba(255, 255, 255, 0.543);
+}/*# sourceMappingURL=style.css.map */
